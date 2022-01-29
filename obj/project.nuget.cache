@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JFhVGJqnI1lF9w5vlO0ZzeV3F6+hDYb+dJvXyrV+KEuVDaM025TEebarEcPy7Nnv6FytBFNNjHzCm0CHhCYTTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itays\\source\\repos\\pro1-walla-automation\\pro1-walla-automation\\pro1-walla-automation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itays\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\selenium.webdriver.chromedriver\\97.0.4692.7100\\selenium.webdriver.chromedriver.97.0.4692.7100.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

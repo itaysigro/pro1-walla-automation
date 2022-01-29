@@ -1,0 +1,17 @@
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\pro1-walla-automation.exe
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.AssemblyInfoInputs.cache
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.AssemblyInfo.cs
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.csproj.CopyComplete
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\pro1-walla-automation.deps.json
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\pro1-walla-automation.runtimeconfig.json
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\pro1-walla-automation.runtimeconfig.dev.json
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\pro1-walla-automation.dll
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\bin\Debug\netcoreapp3.0\pro1-walla-automation.pdb
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.csproj.AssemblyReference.cache
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.csproj.CoreCompileInputs.cache
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.dll
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.pdb
+C:\Users\itays\source\repos\pro1-walla-automation\pro1-walla-automation\obj\Debug\netcoreapp3.0\pro1-walla-automation.genruntimeconfig.cache
